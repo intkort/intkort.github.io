@@ -2,12 +2,13 @@
 title: In't kort
 header-img: img/home-bg.jpg
 email: intkortuitgelegd@gmail.com
-description: "Write your site description here. It will be used as your sites meta description as well!"
+description: "Technische vragen kort uitgelegd door Sebastiaan Jansen"
 baseurl: ""
 url: "http://intkort.be"
 twitter_username: 
-github_username:  intkort
+github_username: intkort/intkort.github.io
 facebook_username:  
+google_analytics: UA-68037711-1
 
 # Build settings
 markdown: kramdown
