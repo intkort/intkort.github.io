@@ -5,3 +5,4 @@ To do:
 - Eigen foto's
 - CDN CSS
 - CDN Javascript
+- favicon
