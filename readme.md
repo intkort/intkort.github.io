@@ -6,3 +6,4 @@ To do:
 - CDN CSS
 - CDN Javascript
 - favicon
+- cookieverklaring
