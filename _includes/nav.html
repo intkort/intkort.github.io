@@ -15,12 +15,12 @@
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav navbar-right">
-                <li>
+                <li {% if !page.title %}class="active"{% endif %}>
                     <a href="{{ site.baseurl }}/">Home</a>
                 </li>
-                {% for page in site.pages %}{% if page.title and page.title != "404" %}
-                <li>
-                    <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+                {% for pag in site.pages %}{% if pag.title and pag.title != "404" %}
+                <li {% if pag.title == page.title %}class="active"{% endif %}>
+                    <a href="{{ pag.url | prepend: site.baseurl }}">{{ pag.title }}</a>
                 </li>
                 {% endif %}{% endfor %}
             </ul>
