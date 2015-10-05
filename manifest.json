@@ -38,6 +38,5 @@
 			"density": "4.0"
 		}
 	],
-	"start_url": "http:\/\/intkort.be\/",
-	"display": "standalone"
+	"start_url": "http:\/\/intkort"
 }
