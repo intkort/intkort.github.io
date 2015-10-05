@@ -3,7 +3,7 @@ layout: page
 description: "Technische vragen kort uitgelegd"
 ---
 
-{% for post in paginator.posts %}
+{% for post in site.posts %}
 <div class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
         <h2 class="post-title">            {{ post.title }}
@@ -14,23 +14,6 @@ description: "Technische vragen kort uitgelegd"
         </h3>
         {% endif %}
     </a>
-    <p class="post-meta">Gepost op {{ post.date | date: "%-d %B %Y" }}</p>
 </div>
 <hr>
 {% endfor %}
-
-<!-- Pager -->
-{% if paginator.total_pages > 1 %}
-<ul class="pager">
-    {% if paginator.previous_page %}
-    <li class="previous">
-        <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Nieuwere Posts</a>
-    </li>
-    {% endif %}
-    {% if paginator.next_page %}
-    <li class="next">
-        <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Oudere Posts &rarr;</a>
-    </li>
-    {% endif %}
-</ul>
-{% endif %}
