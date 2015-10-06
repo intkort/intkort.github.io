@@ -5,8 +5,8 @@
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
                 <ul class="list-inline text-center">
                     <li>
-                        <a href="{{ "/feed.xml" | prepend: site.baseurl }}">
-                            <span title="RSS-feed" class="fa-stack fa-lg">
+                        <a href="{{ "/feed.xml" | prepend: site.baseurl }}" title="RSS-feed">
+                            <span class="fa-stack fa-lg">
                                 <span class="fa fa-circle fa-stack-2x"></span>
                                 <span class="fa fa-rss fa-stack-1x fa-inverse"></span>
                             </span>
@@ -24,8 +24,8 @@
                     {% endif %}
                     {% if site.facebook_username %}
                     <li>
-                        <a href="https://www.facebook.com/{{ site.facebook_username }}">
-                            <span title="Facebookpagina" class="fa-stack fa-lg">
+                        <a href="https://www.facebook.com/{{ site.facebook_username }}" title="Facebookpagina">
+                            <span class="fa-stack fa-lg">
                                 <span class="fa fa-circle fa-stack-2x"></span>
                                 <span class="fa fa-facebook fa-stack-1x fa-inverse"></span>
                             </span>
@@ -34,8 +34,8 @@
                     {% endif %}
                     {% if site.github_username %}
                     <li>
-                        <a href="https://github.com/{{ site.github_username }}">
-                            <span title="Github repository" class="fa-stack fa-lg">
+                        <a href="https://github.com/{{ site.github_username }}" title="Github repository">
+                            <span class="fa-stack fa-lg">
                                 <span class="fa fa-circle fa-stack-2x"></span>
                                 <span class="fa fa-github fa-stack-1x fa-inverse"></span>
                             </span>
@@ -43,8 +43,8 @@
                     </li>
                     {% endif %}
                     <li>
-                        <a href="{{ "/cookieverklaring/" | prepend: site.baseurl }}">
-                            <span title="Cookieverklaring" class="fa-stack fa-lg">
+                        <a href="{{ "/cookieverklaring/" | prepend: site.baseurl }}" title="Cookieverklaring">
+                            <span class="fa-stack fa-lg">
                               <span class="fa fa-circle fa-stack-2x"></span>
                                 <span class="fa fa-stack-1x icon-cookie">
                             </span>
