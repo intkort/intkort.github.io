@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Wat zijn cookies?"
-subtitle:   "Buiten lekker zijn uiteraard."
+subtitle:   "Buiten lekker uiteraard."
 header-img: "img/cookies-bg.jpg"
 ---
 
