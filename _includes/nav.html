@@ -18,7 +18,7 @@
                 <li>
                     <a href="{{ site.baseurl }}/">Home</a>
                 </li>
-                {% for pag in site.pages %}{% if pag.title and pag.title != "404" and pag.title != "Cookies" %}
+                {% for pag in site.pages %}{% if pag.title and pag.title != "404" and pag.title != "Cookies" and pag.title != "Privacy Policy" %}
                 <li>
                     <a href="{{ pag.url | prepend: site.baseurl }}">{{ pag.title }}</a>
                 </li>
