@@ -4,7 +4,6 @@ description: "Technische vragen kort uitgelegd"
 ---
 
 {% for post in site.posts %}
-{% if post.hide == nil %}
 <div class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
         <h2 class="post-title">            {{ post.title }}
@@ -17,5 +16,4 @@ description: "Technische vragen kort uitgelegd"
     </a>
 </div>
 <hr>
-{% endif %}
 {% endfor %}
