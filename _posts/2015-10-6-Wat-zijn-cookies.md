@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Wat zijn cookies?"
-subtitle:   "Buiten lekker uiteraard."
+subtitle:   "Buiten lekker, uiteraard."
 header-img: "img/cookies-bg.jpg"
 ---
 <p>Cookies. Je komt het woord steeds vaker tegen op het internet. Op de website van Facebook, De Standaard, VTM, Zalando, en zelfs deze website! Meestal komt er zo'n irritante melding zoals "Deze website maakt gebruik van cookies om uw gebruikerservaring te verbeteren." waar je dan moet klikken op "Accepteren" of "Verdergaan".</p>
@@ -21,7 +21,7 @@ header-img: "img/cookies-bg.jpg"
 
 <h2>Zijn cookies schadelijk?</h2>
 <p>Schadelijk voor je computer? Nee. Schadelijk voor jou? Dat hangt er van af. In ons voorbeeld heeft Facebook een cookie geplaatst op jouw computer dat gebruikt wordt om aan te melden, maar dat wordt niet enkel daarvoor gebruikt. Heel veel nieuwssites hebben een knop "Aanbevelen". Klikken op deze knop zorgt er voor dat er op je Facebook getoond wordt dat je dat specifieke nieuwsbericht aanbeveelt. Zonder dat je op die knop klikt weet Facebook al dat je dat nieuwsbericht hebt bekeken, gewoon omdat die knop wordt getoond. Dit is omdat zo'n knop een klein stukje code van Facebook zelf is.</p>
-<p>Daarom zeggen mensen cookies schadelijk zijn, omdat ze gebruikt kunnen worden om privégegevens te verzamelen. In dit geval is dat slechts welk nieuwsbericht je leest, maar enorm veel websites hebben zo'n "Aanbevelen"-knop. Indien je het niet erg vindt dat Facebook weet welke pagina's je allemaal bekijkt op het internet moet je er niet zo veel van aantrekken, maar ik persoonlijk blokkeer die specifieke cookies. Indien je wilt weten hoe kan je dat laten weten in de commentaar onderaan deze pagina.</p>
+<p>Daarom zeggen mensen dat cookies schadelijk zijn, omdat ze gebruikt kunnen worden om privégegevens te verzamelen. In dit geval is dat slechts welk nieuwsbericht je leest. Veel websites hebben echter zo'n "Aanbevelen"-knop. Indien je het niet erg vindt dat Facebook weet welke pagina's je allemaal bekijkt op het internet moet je je er niet zo veel van aantrekken. Ik persoonlijk blokkeer die specifieke cookies. Indien je wilt weten hoe, kan je dat laten weten in de commentaar onderaan deze pagina.</p>
 
 <a href="{{ site.baseurl }}/img/post/cookies/de_standaard_aanbevelen.png">
     <img class="outline" src="{{ site.baseurl }}/img/post/cookies/de_standaard_aanbevelen.png" alt="aanbevelen-knop op De Standaard">
