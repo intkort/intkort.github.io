@@ -11,7 +11,7 @@ header-img: "img/cookies-bg.jpg"
 <h2>Voorbeeld : Inloggen op Facebook</h2>
 <p>De meeste mensen hebben een Facebook account en moeten daarvoor ook aanmelden. Hier wordt zelfs al gebruik gemaakt van een cookie. Hij zit namelijk verborgen achter de knop "Aangemeld blijven".</p>
 
-<a href="{{ site.baseurl }}/img/post/cookies/facebook_aangemeld_blijven.png">
+<a href="{{ site.baseurl }}/img/post/cookies/facebook_aangemeld_blijven.png" data-toggle="lightbox" data-title="Inloggen op Facebook" data-footer='<a href="https://www.facebook.com/"> &copy; Facebook {{ site.time | date: '%Y' }}</a>'>
     <img class="outline" src="{{ site.baseurl }}/img/post/cookies/facebook_aangemeld_blijven.png" alt="Facebook login">
 </a>
 <span class="caption text-muted">Inloggen op Facebook - <a href="https://www.facebook.com/"> &copy; Facebook {{ site.time | date: '%Y' }}</a></span>
@@ -23,7 +23,7 @@ header-img: "img/cookies-bg.jpg"
 <p>Schadelijk voor je computer? Nee. Schadelijk voor jou? Dat hangt er van af. In ons voorbeeld heeft Facebook een cookie geplaatst op jouw computer dat gebruikt wordt om aan te melden, maar dat wordt niet enkel daarvoor gebruikt. Heel veel nieuwssites hebben een knop "Aanbevelen". Klikken op deze knop zorgt er voor dat er op je Facebook getoond wordt dat je dat specifieke nieuwsbericht aanbeveelt. Zonder dat je op die knop klikt weet Facebook al dat je dat nieuwsbericht hebt bekeken, gewoon omdat die knop wordt getoond. Dit is omdat zo'n knop een klein stukje code van Facebook zelf is.</p>
 <p>Daarom zeggen mensen dat cookies schadelijk zijn, omdat ze gebruikt kunnen worden om privégegevens te verzamelen. In dit geval is dat slechts welk nieuwsbericht je leest. Veel websites hebben echter zo'n "Aanbevelen"-knop. Indien je het niet erg vindt dat Facebook weet welke pagina's je allemaal bekijkt op het internet moet je je er niet zo veel van aantrekken. Ik persoonlijk blokkeer die specifieke cookies. Indien je wilt weten hoe, kan je dat laten weten in de commentaar onderaan deze pagina.</p>
 
-<a href="{{ site.baseurl }}/img/post/cookies/de_standaard_aanbevelen.png">
+<a href="{{ site.baseurl }}/img/post/cookies/de_standaard_aanbevelen.png" data-toggle="lightbox" data-title="Aanbevelen op Facebook, op De Standaard" data-footer='<a href="http://www.standaard.be/cnt/dmf20150925_01887945"> &copy; De Standaard {{ site.time | date: '%Y' }}</a>, foto: Reuters'>
     <img class="outline" src="{{ site.baseurl }}/img/post/cookies/de_standaard_aanbevelen.png" alt="aanbevelen-knop op De Standaard">
 </a>
 <span class="caption text-muted">Aanbevelen op Facebook, op De Standaard - <a href="http://www.standaard.be/cnt/dmf20150925_01887945"> &copy; De Standaard {{ site.time | date: '%Y' }}</a>, foto: Reuters</span>

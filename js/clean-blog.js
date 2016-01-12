@@ -1056,3 +1056,10 @@ jQuery(document).ready(function($) {
             });
     }
 });
+
+// Init lightbox
+
+$(document).delegate('*[data-toggle="lightbox"]', 'click', function(event) {
+    event.preventDefault();
+    $(this).ekkoLightbox();
+}); 
