@@ -428,7 +428,7 @@ License: https://github.com/ashleydw/lightbox/blob/master/LICENSE
     always_show_close: true,
     no_related: false,
     scale_height: true,
-    loadingMessage: 'Loading...',
+    loadingMessage: 'Laden...',
     onShow: function() {},
     onShown: function() {},
     onHide: function() {},
