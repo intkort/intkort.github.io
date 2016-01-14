@@ -29,3 +29,9 @@ header-img: "img/cookies-bg.jpg"
 <span class="caption text-muted">Aanbevelen op Facebook, op De Standaard - <a href="http://www.standaard.be/cnt/dmf20150925_01887945"> &copy; De Standaard {{ site.time | date: '%Y' }}</a>, foto: Reuters</span>
 
 <p>Zo, dit was "Cookies in't kort". Ik hoop dat het duidelijk en informatief was. Indien er nog vragen zijn mag je ze altijd mailen naar <a href="mailto:intkortuitgelegd@gmail.com">intkortuitgelegd@gmail.com</a> of achterlaten in de commentaar vanonder.</p>
+
+<h2>Extra informatie</h2>
+<ul>
+	<li><a href="http://www.consumentenbond.nl/veilig-online/extra/wat-zijn-cookies/" alt="Meer algemene informatie rond cookies op consumentenbond.nl">Meer algeme informatie rond cookies op consumentenbond.nl</a></li>
+	<li><a href=" http://www.intracto.com/nl/blog/de-belgische-cookiewetgeving-doorgelicht" alt="Meer informatie rond Belgische cookiewetgeving op intracto.com">Meer informatie rond Belgische cookiewetgeving op intracto.com</a></li>
+</ul>
