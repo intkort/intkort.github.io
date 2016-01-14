@@ -25,9 +25,6 @@ h6 {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 800;
 }
-a {
-  color: #404040;
-}
 a:hover,
 a:focus {
   color: #0085a1;
@@ -407,4 +404,7 @@ body {
 .license:hover,
 .license:focus {
   cursor: auto;
+}
+.bottom-icons a {
+  color: #404040;
 }
