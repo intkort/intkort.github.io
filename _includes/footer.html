@@ -73,8 +73,14 @@
 <!-- Bootstrap Core JavaScript -->
 <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
 
+{% if site.GH_ENV %}
 <!-- Custom Theme JavaScript -->
-<script src="{{ "/js/clean-blog.min.js " | prepend: site.baseurl }}"></script>
+<script src="{{ "/js/clean-blog.min.js" | prepend: site.baseurl }}"></script>
+{% else %}
+<!-- Custom Theme JavaScript -->
+<script src="{{ "/js/clean-blog.js" | prepend: site.baseurl }}"></script>
+{% endif %}
+
 
 <!-- Lightbox JavaScript -->
-<script src="{{ "/js/ekko-lightbox.min.js " | prepend: site.baseurl }}"></script>
+<script src="{{ "/js/ekko-lightbox.min.js" | prepend: site.baseurl }}"></script>
