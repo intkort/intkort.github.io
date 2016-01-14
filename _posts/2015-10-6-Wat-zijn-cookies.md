@@ -4,6 +4,10 @@ title:      "Wat zijn cookies?"
 subtitle:   "Buiten lekker, uiteraard."
 header-img: "img/cookies-bg.jpg"
 ---
+<h2>In't kort</h2>
+<p>
+Een <strong>Cookie</strong>, <strong>of magic cookie</strong>, is een hoeveelheid data die op de computer wordt opgeslagen door de websites die je bezoekt. Diezelfde websites kunnen die data nadien terug opvragen. Deze data bevat bv. je winkelwagen op de webshop of je logininformatie op Facebook.
+<h2>In't lang</h2>
 <p>Cookies. Je komt het woord steeds vaker tegen op het internet. Op de websites van Facebook, De Standaard, VTM, Zalando, en zelfs deze! Meestal komt er een melding zoals "Deze website maakt gebruik van cookies om uw gebruikerservaring te verbeteren." waar je dan moet klikken op "Accepteren" of "Verdergaan".</p>
 
 <p>Maar wat moet je precies accepteren? Wat doet dat cookie precies op die websites? Wel, in deze korte tekst zal ik proberen dit mysterie in't kort op te lossen.</p>
@@ -30,8 +34,9 @@ header-img: "img/cookies-bg.jpg"
 
 <p>Indien je nog vragen hebt mag je me altijd mailen via <a href="mailto:intkortuitgelegd@gmail.com">intkortuitgelegd@gmail.com</a> of laat een bericht achter in de commentaar sectie hieronder.</p>
 
-<h2>Extra informatie</h2>
+<h2>Bronnen en extra informatie</h2>
 <ul>
-	<li><a href="http://www.consumentenbond.nl/veilig-online/extra/wat-zijn-cookies/" alt="Meer algemene informatie rond cookies op consumentenbond.nl">Meer algeme informatie rond cookies op consumentenbond.nl</a></li>
-	<li><a href=" http://www.intracto.com/nl/blog/de-belgische-cookiewetgeving-doorgelicht" alt="Meer informatie rond Belgische cookiewetgeving op intracto.com">Meer informatie rond Belgische cookiewetgeving op intracto.com</a></li>
+	<li><a href="http://www.consumentenbond.nl/veilig-online/extra/wat-zijn-cookies/" alt="meer algemene informatie rond cookies op consumentenbond.nl">Meer algeme informatie rond cookies op consumentenbond.nl.</a></li>
+	<li><a href=" http://www.intracto.com/nl/blog/de-belgische-cookiewetgeving-doorgelicht" alt="meer informatie rond Belgische cookiewetgeving op intracto.com">Meer informatie rond Belgische cookiewetgeving op intracto.com.</a></li>
+	<li><a href="https://nl.wikipedia.org/wiki/Cookie_(internet)" alt="Meer technische en achtergrondinformatie op wikipedia.org">Meer technische en achtergrondinformatie op wikipedia.org.</a></li>
 </ul>
