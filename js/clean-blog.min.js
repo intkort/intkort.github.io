@@ -1,5 +1,5 @@
 /*!
- * In't kort v1.0.0 (http://intkort.be/)
+ * In't kort v1.0.0 (https://intkort.be/)
  * Copyright 2016 In't kort, derived from Start Bootstrap
  * Licensed under Apache 2.0 (https://github.com/intkort/intkort.github.io/blob/master/LICENSE)
  */
