@@ -6,7 +6,7 @@ header-img: "img/cookies-bg.jpg"
 ---
 ## In\'t kort
 
-Een **cookie**, of **magic cookie**, is een hoeveelheid data die op de computer wordt opgeslagen door de websites die je bezoekt. Diezelfde websites kunnen die data nadien terug opvragen. Deze data bevat bv. je winkelwagen op de webshop of je logininformatie op Facebook.
+Een **cookie**, of **magic cookie**, is een hoeveelheid data die op de computer wordt opgeslagen door de websites die je bezoekt. Diezelfde websites kunnen die data nadien terug opvragen. Deze data bevat bv. je winkelwagen op de webshop of je login informatie op Facebook.
 
 ## In\'t lang
 Cookies. Je komt het woord steeds vaker tegen op het internet. Op de websites van Facebook, De Standaard, VTM, Zalando, en zelfs deze! Meestal komt er een melding zoals "Deze website maakt gebruik van cookies om uw gebruikerservaring te verbeteren." waar je dan moet klikken op "Accepteren" of "Verdergaan".
