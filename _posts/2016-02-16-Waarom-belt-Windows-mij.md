@@ -35,6 +35,8 @@ In de volgende stap wordt er aan jou gevraagd om een programma te downloaden. Di
 
 Een andere manier om aan geld te geraken is een beveiligingsupdate verkopen, zodat al die fouten en errors weg zijn.
 
+Dus wat moet je doen wanneer "Windows" je belt? Ophangen.
+
 Indien je nog vragen hebt mag je me altijd mailen via <intkortuitgelegd@gmail.com> of laat een bericht achter in de commentaar sectie hieronder.
 
 ### Bronnen en extra informatie
