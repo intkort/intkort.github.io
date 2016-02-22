@@ -23,7 +23,7 @@ Een tijdje geleden werd ik zelf opgebeld. Het hele verhaal heb ik gevolgd en ged
 
 Het gemene spelletje begint altijd op dezelfde manier. Je wordt opgebeld via de vaste telefoon en wanneer je opneemt word je begroet met gebrekkig Engels. De persoon informeert je dat jouw computer signalen naar de servers van Windows stuurt omdat je geïnfecteerd zou zijn met een virus.
 
-Hier zie je ook meteen de eerste reden waarom dit zeker en vast een oplicht(s)ter is. Bij het installeren van jouw computer heb je niet jouw telefoonnummer gegeven, dus kunnen ze jouw onmogelijk opbellen.
+Hier zie je ook meteen de eerste reden waarom dit zeker en vast een oplicht(s)ter is. Bij het installeren van jouw computer heb je niet jouw telefoonnummer gegeven, dus kunnen ze jou onmogelijk opbellen.
 
 Vervolgens zal je gevraagd worden om enkele stappen te volgen om te "bewijzen" dat je computer geïnfecteerd is. Vaak is dat "Event-viewer", dat wordt gebruikt om het logboek van Windows te bekijken. Er zullen heel veel "errors" in staan, maar dat is volkomen normaal.
 
