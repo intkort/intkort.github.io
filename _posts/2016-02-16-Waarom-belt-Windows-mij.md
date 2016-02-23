@@ -11,9 +11,11 @@ Wat moet je doen als je wordt opgebeld door _"Windows"_? Ophangen.
 
 Ben je reeds slachtoffer geworden? Doe dan het volgende:
 
-> Verzamel zoveel mogelijk gegevens (naam en firma van de oplichter, telefoonnummer, taal/accent, handelingen en gebruikte programma's op de computer, eventuele overgemaakte persoonlijke gegevens, prijs en betalingsmethode, ...) en doe aangifte bij de politie.
+>  Doe zeker een aangifte zodat er een proces-verbaal en/of kort verslag opgemaakt kan worden. De persoon dient wel zoveel mogelijk informatie mee te brengen, wij raden ook aan om een soort van logboek aan te maken met volgende informatie: dag, uur, telefoonnummer(s).
+>
+> Recent heeft de FOD Economie ook een meldpunt gelanceerd waar iedereen een poging oplichting/ fraude kan melden, dit is op de website <https://meldpunt.belgie.be/meldpunt/>
 
-Bron: [Lokalepolitie.be](http://www.lokalepolitie.be/5396/vragen/criminaliteit-op-internet/microsoft-scam-via-de-telefoon "Lokalepolitie.be")
+Bron: Mail van <Blauwe.Lijn@politie.antwerpen.be>
 
 ## In\'t lang
 
@@ -40,6 +42,7 @@ Dus wat moet je doen wanneer "Windows" je belt? Ophangen.
 Indien je nog vragen hebt mag je me altijd mailen via <intkortuitgelegd@gmail.com> of laat een bericht achter in de commentaar sectie hieronder.
 
 ### Bronnen en extra informatie
+- [Online meldpunt Politie](https://meldpunt.belgie.be/meldpunt/ "Online meldpunt Politie")
 - [YouTube-filmpje waar dat een beveiligingsexpert alle stappen volgt van de oplichter](https://www.youtube.com/watch?v=8a_edowfgl8 "YouTube-filmpje waar dat een beveiligingsexpert alle stappen volgt van de oplichter")
 - [Hoe aan te geven en meer informatie op lokalepolitie.be](http://www.lokalepolitie.be/5396/vragen/criminaliteit-op-internet/microsoft-scam-via-de-telefoon "Hoe aan te geven en meer informatie op lokalepolitie.be")
 - [Artikel op Wikipedia (Engels)](https://en.wikipedia.org/wiki/Technical_support_scam "Artikel op Wikipedia (Engels)")
