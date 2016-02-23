@@ -33,6 +33,6 @@ Indien je nog vragen hebt mag je me altijd mailen via <intkortuitgelegd@gmail.co
 
 ### Bronnen en extra informatie
 
-- [Meer algemene informatie rond cookies op consumentenbond.nl.](http://www.consumentenbond.nl/veilig-online/extra/wat-zijn-cookies/ "meer algemene informatie rond cookies op consumentenbond.nl")
-- [Meer informatie rond Belgische cookiewetgeving op intracto.com.](http://www.intracto.com/nl/blog/de-belgische-cookiewetgeving-doorgelicht "meer informatie rond Belgische cookiewetgeving op intracto.com")
-- [Meer technische en achtergrondinformatie op wikipedia.org.](https://nl.wikipedia.org/wiki/Cookie_(internet) "meer technische en achtergrondinformatie op wikipedia.org")
+- [Meer algemene informatie rond cookies op consumentenbond.nl](http://www.consumentenbond.nl/veilig-online/extra/wat-zijn-cookies/ "meer algemene informatie rond cookies op consumentenbond.nl")
+- [Meer informatie rond Belgische cookiewetgeving op intracto.com](http://www.intracto.com/nl/blog/de-belgische-cookiewetgeving-doorgelicht "meer informatie rond Belgische cookiewetgeving op intracto.com")
+- [Meer technische en achtergrondinformatie op wikipedia.org](https://nl.wikipedia.org/wiki/Cookie_(internet) "meer technische en achtergrondinformatie op wikipedia.org")

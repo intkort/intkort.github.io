@@ -45,4 +45,4 @@ Indien je nog vragen hebt mag je me altijd mailen via <intkortuitgelegd@gmail.co
 - [Online meldpunt Politie](https://meldpunt.belgie.be/meldpunt/ "Online meldpunt Politie")
 - [YouTube-filmpje waar dat een beveiligingsexpert alle stappen volgt van de oplichter](https://www.youtube.com/watch?v=8a_edowfgl8 "YouTube-filmpje waar dat een beveiligingsexpert alle stappen volgt van de oplichter")
 - [Hoe aan te geven en meer informatie op lokalepolitie.be](http://www.lokalepolitie.be/5396/vragen/criminaliteit-op-internet/microsoft-scam-via-de-telefoon "Hoe aan te geven en meer informatie op lokalepolitie.be")
-- [Artikel op Wikipedia (Engels)](https://en.wikipedia.org/wiki/Technical_support_scam "Artikel op Wikipedia (Engels)")
+- [Meer technische en achtergrondinformatie op wikipedia.org (Engels)](https://en.wikipedia.org/wiki/Technical_support_scam "Meer technische en achtergrondinformatie op wikipedia.org  (Engels)")
