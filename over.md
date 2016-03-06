@@ -25,4 +25,4 @@ Inderdaad, maar ik vind dat de meeste resultaten die daar van krijgt het niet du
 Een student computerwetenschappen die momenteel in zijn laatste jaar master toegepaste informatica aan het doen is. Door mijn opleiding heen heb ik de nodig ervaringen opgedaan, voornamelijk door een overdaad aan hobby's die niet gelimiteerd zijn tot elektronica, computerherstellingen en mechanica.
 
 ## Ik heb een vraag die hier nog niet staat
-Stuur een mailtje naar <intkortuitgelegd@gmail.com> en ik beantwoord graag je vraag! Indien hij interessant is zet ik hem op de website, of maak er filmpje over.
+Stuur een mailtje naar <sebastiaan@intkort.be> en ik beantwoord graag je vraag! Indien hij interessant is zet ik hem op de website, of maak er filmpje over.

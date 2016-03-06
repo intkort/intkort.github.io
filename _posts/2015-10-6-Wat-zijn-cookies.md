@@ -29,7 +29,7 @@ Daarom zeggen mensen dat cookies schadelijk zijn, omdat ze gebruikt kunnen worde
 
 {% include modal_image.html image='/img/post/cookies/de_standaard_aanbevelen.png' modal-title='Aanbevelen op Facebook, op De Standaard' modal-footer='<a href="http://www.standaard.be/cnt/dmf20150925_01887945"> &copy; De Standaard 2016</a>, foto: Reuters' footer='Aanbevelen op Facebook, op De Standaard - <a href="http://www.standaard.be/cnt/dmf20150925_01887945"> &copy; De Standaard 2016</a>, foto: Reuters' %}
 
-Indien je nog vragen hebt mag je me altijd mailen via <intkortuitgelegd@gmail.com> of laat een bericht achter in de commentaar sectie hieronder.
+Indien je nog vragen hebt mag je me altijd mailen via <sebastiaan@intkort.be> of laat een bericht achter in de commentaar sectie hieronder.
 
 ### Bronnen en extra informatie
 
