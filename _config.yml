@@ -14,7 +14,10 @@ google_analytics: UA-68037711-1
 markdown: kramdown
 highlighter: rouge
 permalink: pretty
-paginate: 5
+
+# Path without date
+permalink: /:title/
+ 
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 kramdown:
     auto_ids: false
