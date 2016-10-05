@@ -29,6 +29,6 @@ Als alles wel in orde is wordt de webpagina verstuurd. Vooraleer die verstuurd w
 Tot hier de uitleg over veilig surfen op het internet. Indien je nog vragen hebt mag je me altijd mailen via <sebastiaan@intkort.be> of laat een bericht achter in de commentaar sectie hieronder. Veel (veilig) surfplezier!
 
 ### Bronnen en extra informatie
-- [Naam](https://url.be "naam")
-- [Naam](https://url.be "naam")
-- [Hoe certificaten worden weergegeven op Google Chrome](https://support.google.com/chrome/answer/95617?p=ui_security_indicator&rd=1&hl=nl "Hoe certificaten worden weergegeven op Google Chrome")
+- [Meer technische en achtergrondinformatie op wikipedia.org](https://nl.wikipedia.org/wiki/HyperText_Transfer_Protocol_Secure "meer technische en achtergrondinformatie op wikipedia.org")
+- [De verbinding van Chrome met een site controleren](https://support.google.com/chrome/answer/95617?hl=nl "de verbinding van Chrome met een site controleren")
+- [SSL: wat is het en hoe werkt het? op combell.com](https://www.combell.com/nl/blog/ssl-wat-is-het-en-hoe-werkt-het/ "SSL: wat is het en hoe werkt het? op combell.com")
