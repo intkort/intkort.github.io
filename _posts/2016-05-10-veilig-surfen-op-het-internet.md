@@ -22,7 +22,7 @@ Wanneer je op jouw computer surft naar een website moet je een adres ingeven in 
 
 Bij het surfen naar een webpagina zijn er twee computers in het spel. De computer die de webpagina heeft en de computer die de webpagina wilt. Dit artikel dat je nu aan het lezen bent staat op mijn computer die ik aan jou heb verstuurd. Voordat ik het verstuur naar jou wil je nakijken of ik wel degelijk de enige echte https://intkort.be ben. Om dat te controleren vraag je eerst mijn elektronisch paspoort. Je computer kijkt na of de gegevens kloppen. Indien er iets niet in orde is krijg je dit eng scherm te zien.
 
-{% include modal_image.html image='/img/post/https/onveilig.png' modal-title='Ongeldig elektronisch paspoort' modal-footer='Deze website heeft een ongeldig elektronisch paspoort, dus hier waarschuwt Google Chrome je. Je ziet ook dat de "https" doorstreept is.' footer='Website met een ongeldig elektronisch paspoort.' %}
+{% include modal_image.html image='/img/post/https/onveilig.png' modal-title='Ongeldig elektronisch paspoort' modal-footer='Deze website heeft een ongeldig elektronisch paspoort, dus hier waarschuwt Google Chrome je. Je ziet ook dat de "https" doorstreept is. Als je er echt zeker van bent dat je de website toch wilt bezoeken kan je op "Geavanceerd" klikken om verder te gaan.' footer='Website met een ongeldig elektronisch paspoort.' %}
 
 Als alles wel in orde is wordt de webpagina verstuurd. Vooraleer die verstuurd wordt zet de computer die de webpagina heeft er een elektronisch slot op dat enkel de computer die het wil lezen kan openmaken. Zo kan niemand anders de inhoud lezen.
 
