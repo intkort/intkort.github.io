@@ -7,7 +7,7 @@ published:  true
 ---
 ## In\'t kort
 
-Werk je met gevoelige zaken zoals bankgegevens en wachtwoorden wilt hanteren op het internet? Kijk dan eerst na of er een groen slotje staat in de adresbalk. Die zorgt ervoor dat andere mensen niets onderscheppen en dat je zeker met de echte website werkt.
+Wil je werken met gevoelige zaken zoals bankgegevens en wachtwoorden op het internet? Kijk dan eerst na of er een groen slotje staat in de adresbalk. Die zorgt ervoor dat andere mensen niets onderscheppen en dat je zeker met de echte website werkt.
 
 Hieronder zie je het groene slotje van In\'t Kort. Hier surf je dus veilig!
 {% include modal_image.html image='/img/post/https/voorbeeld.png' modal-title='Het slotje van In\'t kort' footer='Het groene slotje van In\'t kort' %}
@@ -20,7 +20,7 @@ Wanneer je op jouw computer surft naar een website moet je een adres ingeven in 
 
 ### Handig! Maar hoe werkt het?
 
-Bij het surfen naar een webpagina zijn er twee computers in het spel. De computer die de webpagina heeft en de computer die de webpagina wilt. Dit artikel dat je nu aan het lezen bent staat op mijn computer die ik aan jou heb verstuurd. Voordat ik het verstuur naar jou wil je nakijken of ik wel degelijk de enige echte https://intkort.be ben. Om dat te controleren vraag je eerst mijn elektronisch paspoort. Je computer kijkt na of de gegevens kloppen. Indien er iets niet in orde is krijg je dit eng scherm te zien.
+Bij het surfen naar een webpagina zijn er twee computers in het spel. De computer die de webpagina heeft en de computer die de webpagina wilt. Dit artikel dat je nu aan het lezen bent staat op mijn computer. Voordat ik het verstuur naar jou wil je nakijken of ik wel degelijk de enige echte https://intkort.be ben. Om dat te controleren vraag je eerst mijn elektronisch paspoort. Je computer kijkt na of de gegevens kloppen. Indien er iets niet in orde is krijg je dit eng scherm te zien.
 
 {% include modal_image.html image='/img/post/https/onveilig.png' modal-title='Ongeldig elektronisch paspoort' modal-footer='Deze website heeft een ongeldig elektronisch paspoort, dus hier waarschuwt Google Chrome je. Je ziet ook dat de "https" doorstreept is. Als je er echt zeker van bent dat je de website toch wilt bezoeken kan je op "Geavanceerd" klikken om verder te gaan.' footer='Website met een ongeldig elektronisch paspoort.' %}
 
