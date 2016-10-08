@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Veilig surfen op het internet"
-subtitle:   "De garantie van het groene slotje"
+subtitle:   "De garantie van het groene slotje."
 header-img: "img/post-bg-HTTPS.jpg"
 published:  true
 ---
