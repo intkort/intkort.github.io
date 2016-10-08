@@ -39,7 +39,7 @@ Een andere manier om aan geld te geraken is een beveiligingsupdate verkopen, zod
 
 Dus wat moet je doen wanneer "Windows" je belt? Ophangen.
 
-Indien je nog vragen hebt mag je me altijd mailen via <sebastiaan@intkort.be> of laat een bericht achter in de commentaar sectie hieronder.
+Indien je nog vragen hebt mag je me altijd mailen via <sebastiaan@intkort.be> of laat een bericht achter in de commentaarsectie hieronder.
 
 ### Bronnen en extra informatie
 - [Online meldpunt Politie](https://meldpunt.belgie.be/meldpunt/ "Online meldpunt Politie")
