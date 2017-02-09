@@ -22,7 +22,9 @@ Op een gegeven moment dacht ik: "Er moeten nog mensen zijn die met vragen zitten
 Inderdaad, maar ik vind dat de meeste resultaten die daar van krijgt het niet duidelijk genoeg uitleggen of al een enige voorkennis verwachten. De meeste informatie op het internet is ook in het Engels, wat niet voor iedereen even duidelijk is, zeker met veel technisch jargon. Deze website zou die gaten in de zoekresultaten moeten opvangen.
 
 ## Wie ben jij eigenlijk?
-Een student computerwetenschappen die momenteel in zijn laatste jaar master toegepaste informatica aan het doen is. Door mijn opleiding heen heb ik de nodig ervaringen opgedaan, voornamelijk door een overdaad aan hobby's die niet gelimiteerd zijn tot elektronica, computerherstellingen en mechanica.
+Een cybersecurity consultant bij EY die ondertussen ook nog zijn laatste jaar master toegepaste informatica afwerkt. Door mijn opleiding heen heb ik de nodig ervaringen opgedaan, voornamelijk door een overdaad aan hobby's die niet gelimiteerd zijn tot elektronica, computerherstellingen en mechanica.
+
+Alle dingen die ik hier zeg zijn mijn eigen mening en niet die van EY.
 
 ## Ik heb een vraag die hier nog niet staat
 Stuur een mailtje naar <sebastiaan@intkort.be> en ik beantwoord graag je vraag! Indien hij interessant is zet ik hem op de website, of maak er filmpje over.
