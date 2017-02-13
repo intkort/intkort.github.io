@@ -24,7 +24,7 @@ Bij het surfen naar een webpagina zijn er twee computers in het spel. De compute
 
 {% include modal_image.html image='/img/post/https/onveilig.png' modal-title='Ongeldig elektronisch paspoort' modal-footer='Deze website heeft een ongeldig elektronisch paspoort, dus hier waarschuwt Google Chrome je. Je ziet ook dat de "https" doorstreept is. Als je er echt zeker van bent dat je de website toch wilt bezoeken kan je op "Geavanceerd" klikken om verder te gaan.' footer='Website met een ongeldig elektronisch paspoort.' %}
 
-Als alles wel in orde is, wordt de webpagina verstuurd. Vooraleer die verstuurd wordt, zet de computer die de webpagina heeft er een elektronisch slot op dat enkel de computer die het wil lezen kan openmaken. Zo kan niemand anders de inhoud lezen.
+Als alles wel in orde is, wordt de webpagina verstuurd. Vooraleer die verstuurd wordt, zet de computer die de webpagina heeft er een elektronisch slot op dat enkel de computer die het wil lezen kan openmaken. Zo kan niemand anders de inhoud lezen. Let wel op, het groene slotje beveiligt enkel de communicatie tussen jij en de server. Als de server zelf alle informatie zou lekken zou het niet helpen.
 
 Tot zover de uitleg over veilig surfen op het internet. Indien je nog vragen hebt, mag je me altijd mailen via <sebastiaan@intkort.be> of een bericht achterlaten in de commentaarsectie hieronder. Veel (veilig) surfplezier!
 
